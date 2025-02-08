@@ -1,0 +1,41 @@
+Test
+
+Pour 10 000 en mode normal:
+    42.7242 +/- 0.0687
+min/max = 21/68  
+
+Pour 100 000 en mode normal:
+    42.7451 +/- 0.0218
+min/max = 21/70
+
+Pour 100 000 en mode full:
+    42.3221 +/- 0.0214
+min/max = 20/68
+
+POur 1000 en mode normal:
+    42.548 +/- 0.212
+min/max = 24/63
+
+Pour 1 000 en [0.1,0.2,0.3,0.4]:
+    53.87 +/- 0.35
+min/max = 24/87
+    
+Pour 100 en [0.1,0.3,0.6,1]:
+    50.99 +/- 1.08
+min/max = 31/81
+
+Pour 100 en [0.2,0.4,1,2]:
+    50.82 +/- 1.12
+min/max = 26/75
+
+Pour 1000 en mode anti-raf:
+    43.463 +/- 0.222
+min/max = 24/62
+
+Pour 10 000 en mode anti-raf:
+    43.143 +/- 0.022
+min/max = 20/69
+
+Pour 1 000 000 en mode anti-raf:
+    43.127 +/- 0.007
+min/max = 20/72
